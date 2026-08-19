@@ -25,6 +25,7 @@ public class TC01_LoginTest extends BaseClass {
         String actual=hp.getTitle();
         Assert.assertEquals("A", "B");
         Assert.assertEquals(actual, "EVSP - Charger Status");
+        System.out.println(actual);
         
         // Now doing new development
         
@@ -33,6 +34,8 @@ public class TC01_LoginTest extends BaseClass {
         // Deepak
 
        // Saurabh
+        
+       // tests added
 
        
     }
