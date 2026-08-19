@@ -10,6 +10,7 @@ import testbases.BaseClass;
 
 public class TC01_LoginTest extends BaseClass {
 
+	
     @Test
     public void verifyLogin() throws InterruptedException {
 
@@ -27,7 +28,7 @@ public class TC01_LoginTest extends BaseClass {
         Assert.assertEquals(actual, "EVSP - Charger Status");
         
         
-
+  // Completed basic test
        
     }
 }
