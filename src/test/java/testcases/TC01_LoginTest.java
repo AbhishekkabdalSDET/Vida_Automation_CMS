@@ -26,6 +26,10 @@ public class TC01_LoginTest extends BaseClass {
         Assert.assertEquals("A", "B");
         Assert.assertEquals(actual, "EVSP - Charger Status");
         
+        // Now doing new development
+        
+        // for ongoing project
+        
         
 
        
